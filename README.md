@@ -1,7 +1,6 @@
-## LING 270 web site
+## TODO
 
-* DONE editing the content in `_data/schedule.yaml`
-* DONE editing the name and website links for the Instructor and the TA in `index.md`
-* DONE updating the link to the current semester's forum in `_includes/navigation.html`
-
+* Edit `_data/schedule.yaml` for current semester
+* Update `index.md` for current information
+* Link to current semester's websites in `_includes/navigation.html`
 
