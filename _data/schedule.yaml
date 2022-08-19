@@ -1,0 +1,403 @@
+-
+  module: "0"
+  week: "1"
+  date: "2022-01-20 23:59 CDT"
+  title: "Syllabus"
+  reading:
+    -
+     title: "Syllabus"
+     url: ..
+     length:
+       value: 6
+       unit: "pages"
+    -
+     title: "Academic Integrity Overview"
+     url: "https://las.illinois.edu/academics/integrity"
+     length:
+       value: 8
+       unit: "pages"
+    -
+     title: "Statement"
+     url: "https://studentcode.illinois.edu/article1/part4/1-401/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Infractions"
+     url: "https://studentcode.illinois.edu/article1/part4/1-402/"
+     length:
+       value: 2
+       unit: "pages"
+    -
+     title: "Procedures"
+     url: "https://studentcode.illinois.edu/article1/part4/1-403/"
+     length:
+       value: 3
+       unit: "pages"
+    -
+     title: "Sanctions"
+     url: "https://studentcode.illinois.edu/article1/part4/1-404/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Reporting"
+     url: "https://studentcode.illinois.edu/article1/part4/1-405/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Senate"
+     url: "https://studentcode.illinois.edu/article1/part4/1-406/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 0"
+-
+  module: "1"
+  week: "1"
+  date: "2022-01-21 23:59 CDT"
+  title: "Language Technology from the Sumerians to Today"
+  reading:
+    -
+     title: "Video playlist"
+     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5UqYCvpluOjkM5o_Smv-z3r"
+     length:
+       value: "133"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 1"
+     pages: "1‑8"
+     length: 
+       value: 8
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 1a"
+-
+  week: "2"
+  date: "2022-01-28 23:59 CDT"
+  reading:
+    -
+     title: "Video playlist"
+     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5WAXhSM2EyLm_qD_0llpXWp"
+     length:
+       value: "180"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 2"
+     pages: "9‑29"
+     length: 
+       value: 21
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 1b"
+-
+  module: "2"
+  week: "3"
+  date: "2022-02-04 23:59 CDT"
+  title: "How Writing Represents Language"
+  reading:
+    -
+     title: "Video playlist (part 01)"
+     url: "https://www.youtube.com/watch?v=WRduVA1v_-Q&list=PLydysiDoFy5UEbZjnqtxRzOpKzWkCsYWM"
+     length:
+       value: "167"
+       unit: "minutes"
+    -
+     title: "Video playlist (part 02)"
+     url: "https://www.youtube.com/watch?v=sqkf_cgQUI0&list=PLydysiDoFy5VipwO12eoGC1Nwd9PTTsGL"
+     length:
+       value: "85"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 3 - 3.2"
+     pages: "30-52"
+     length: 
+       value: 21
+       unit: "pages"
+    -
+     title: "Quiz 2a"
+-
+  week: "4"
+  date: "2022-02-11 23:59 CDT"
+  reading:
+    -
+     title: "Video playlist (part 03)"
+     url: "https://www.youtube.com/watch?v=Vu9gplvyWWM&list=PLydysiDoFy5Xd8guBbA5Pa5W0IxY-ixAx"
+     length:
+       value: "68"
+       unit: "minutes"
+    -
+     title: "An Animated History of Writing"
+     url: "https://www.youtube.com/playlist?list=PLc4s09N3L2h3HtaAYVqOVKGt2h6wRasw2"
+     length:
+       value: "97"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 3.3 - 3.5"
+     pages: "52-76"
+     length: 
+       value: 25
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 2b"
+-
+  date: "2022-02-16 23:59 CDT"
+  reading:
+    -
+     title: "Homework 1"
+     url: "https://learn.illinois.edu/mod/assign/view.php?id=6771475"
+-
+  module: "3"
+  week: "5-6"
+  date: "2022-02-25 23:59 CDT"
+  title: "Decipherment"
+  reading:
+    -
+     title: "Video: Cracking the Maya Code"
+     url: "https://www.youtube.com/watch?v=Qrbsz-7gns8"
+     length:
+       value: "53"
+       unit: "minutes"
+    -
+     title: "Video: Deciphering the Maya Script"
+     url: "https://www.youtube.com/watch?v=dqzScCfV274"
+     length:
+       value: "120"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 4"
+     pages: "77-112"
+     length: 
+       value: 36
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 3"
+-
+  date: "2022-02-25 23:59 CDT"
+  reading:
+    -
+     title: "Homework 2"
+     url: "https://learn.illinois.edu/mod/assign/view.php?id=6771478"
+-
+  module: "4"
+  week: "6-7"
+  date: "2022-03-04 23:59 CDT"
+  title: "The Invention of Printing"
+  reading:
+    -
+     title: "Video: Gutenberg Printing Press Documentary"
+     url: "https://www.youtube.com/watch?v=uQ88yC35NjI"
+     length:
+       value: "60"
+       unit: "minutes"
+    -
+     author: Wikipedia
+     title: "Printing Press"
+     url: "https://en.wikipedia.org/wiki/Printing_press"
+     length:
+       value: 8
+       unit: "pages"
+    -
+     author: Wikipedia
+     title: "Typeface (Sections 1-5)"
+     url: "https://en.wikipedia.org/wiki/Typeface"
+     length:
+       value: 10
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 4"
+-
+  module: "5"
+  week: "7-8"
+  date: "2022-03-11 23:59 CDT"
+  title: "Writing, Literacy, & Society"
+  reading:
+    -
+     title: "Video playlist"
+     url: "https://www.youtube.com/watch?v=ScBnE5DEdBA&list=PLrFhPxATm4HwzRUYb5EhHV10IaBEIOtLU"
+     length:
+       value: "100"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 5"
+     pages: "113-141"
+     length: 
+       value: 29
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 5"
+-
+  week: "9"
+  title: "<i>Spring Break</i>"
+-
+  date: "2022-03-22 23:59 CDT"
+  module: "1-5"
+  week: "10"
+  reading:
+    -
+     title: "Mid-term Exam"
+-
+  week: "10"
+  date: "2022-03-25 23:59 CDT"
+  reading:
+    -
+     title: "Course Project Part 1"
+     url: "https://learn.illinois.edu/mod/assign/view.php?id=6771487"
+-
+  module: "6"
+  week: "10-11"
+  date: "2022-04-01 23:59 CDT"
+  title: "Artificial Intelligence"
+  reading:   
+    -
+     author: Turing
+     title: "Computing Machinery and Intelligence"
+     url: "http://mind.oxfordjournals.org/content/LIX/236/433"
+     pages: "433-460"
+     length: 
+       value: 28
+       unit: "pages"
+    -
+     title: "AI movie:<ul><li>Bicentennial Man, or</li><li>Ex Machina, or</li><li>Her</li></ul>"
+     length:
+       value: "120"
+       unit: "minutes"  
+    -
+     title: "Video playlist"
+     url: "https://www.youtube.com/watch?v=wMbE5g9Q6pE&list=PLrFhPxATm4HwhorDU2a2ZU_WuaxBhwnRN"
+     length:
+       value: "90"
+       unit: "minutes"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 6"
+     
+-
+  module: "7"
+  week: "11-12"
+  date: "2022-04-08 23:59 CST"
+  title: "Precursors to Language Computing"
+  reading:
+    -
+     title: "Video playlist"
+     url: "https://www.youtube.com/watch?v=-ZZTkASKkYE&list=PLrFhPxATm4Hz22YckBBRphXqtkiHSItm3"
+     length:
+       value: "98"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 6"
+     pages: "142-187"
+     length: 
+       value: 46
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 7"
+-
+  module: "8"
+  week: "13"
+  date: "2022-04-15 23:59 CST"
+  title: "Modern Language Technology"
+  reading:
+    -
+     title: "Video playlist: Modern Speech Technology"
+     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5UPeSag8yC-jvVTK3q0k4JW"
+     length:
+       value: "135"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 7"
+     pages: "188-215"
+     length: 
+       value: 28
+       unit: "pages"
+-
+  date: "2022-04-15 23:59 CDT"
+  reading:
+    -
+     title: "Homework 3"
+     url: "https://learn.illinois.edu/mod/assign/view.php?id=6771481"
+-
+  week: "14"
+  date: "2022-04-22 23:59 CST"
+  reading:
+    -
+     author: Sproat
+     title: "Chapter 8"
+     pages: "216-241"
+     length: 
+       value: 26
+       unit: "pages"
+    -
+     title: "Quiz 8"
+    -
+     title: "Reading log"
+-
+  date: "2022-04-22 23:59 CST"
+  reading:
+    -
+     title: "Course Project Part 2"
+     url: "https://learn.illinois.edu/mod/assign/view.php?id=6771490"
+-
+  module: "9"
+  week: "15"
+  date: "2022-04-29 23:59 CST"
+  title: "Language and the Internet"
+  reading:
+    -
+     author: Sproat
+     title: "Chapter 9"
+     pages: "242-255"
+     length: 
+       value: 14
+       unit: "pages"
+-
+  module: "9"
+  week: "16"
+  date: "2022-05-06 23:59 CST"
+  reading:
+    -
+     author: Sproat
+     title: "Chapter 10"
+     pages: "256-258"
+     length: 
+       value: 3
+       unit: "pages"
+-
+  date: "2022-05-06 23:59 CST"
+  reading:
+    -
+     title: "Homework 4"
+     url: "https://learn.illinois.edu/mod/assign/view.php?id=6771484"
+-
+  date: "2022-05-06 23:59 CST"
+  reading:
+    -
+     title: "Course Project Part 3"
+     url: "https://learn.illinois.edu/mod/assign/view.php?id=6771493"
