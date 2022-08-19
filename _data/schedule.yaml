@@ -250,17 +250,14 @@
     -
      title: "Quiz 5"
 -
-  week: "9"
-  title: "<i>Spring Break</i>"
--
   date: "2022-10-18 23:59 CDT"
   module: "1-5"
-  week: "10"
+  week: "9"
   reading:
     -
      title: "Mid-term Exam"
 -
-  week: "10"
+  week: "9"
   date: "2022-10-21 23:59 CDT"
   reading:
     -
@@ -268,7 +265,7 @@
      url: "https://learn.illinois.edu/mod/assign/view.php?id=6771487"
 -
   module: "6"
-  week: "10-11"
+  week: "9-10"
   date: "2022-10-28 23:59 CDT"
   title: "Artificial Intelligence"
   reading:   
@@ -298,7 +295,7 @@
      
 -
   module: "7"
-  week: "11-12"
+  week: "10-11"
   date: "2022-11-04 23:59 CDT"
   title: "Precursors to Language Computing"
   reading:
@@ -321,7 +318,7 @@
      title: "Quiz 7"
 -
   module: "8"
-  week: "13"
+  week: "12"
   date: "2022-11-11 23:59 CST"
   title: "Modern Language Technology"
   reading:
@@ -345,7 +342,7 @@
      title: "Homework 3"
      url: "https://learn.illinois.edu/mod/assign/view.php?id=6771481"
 -
-  week: "14"
+  week: "13"
   date: "2022-11-18 23:59 CST"
   reading:
     -
@@ -365,6 +362,9 @@
     -
      title: "Course Project Part 2"
      url: "https://learn.illinois.edu/mod/assign/view.php?id=6771490"
+-
+  week: "14"
+  title: "<i>Thanksgiving Break</i>"
 -
   module: "9"
   week: "15"
