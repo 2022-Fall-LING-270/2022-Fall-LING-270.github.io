@@ -12,8 +12,8 @@ This course deals with the interrelated nature of language, technology, and soci
 * Gregory Hall 219
 
 #### Instructor
-* Brennan Dell (dell3@illinois.edu)
-* Sofya Styrina (styrina2@illinois.edu)
+* Brennan Dell - Lecturer (dell3@illinois.edu)
+* Sofya Styrina - Grader (styrina2@illinois.edu)
 
 ## Course Objectives
 
