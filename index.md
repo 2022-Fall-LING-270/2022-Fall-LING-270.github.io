@@ -8,11 +8,12 @@ title: Syllabus
 This course deals with the interrelated nature of language, technology, and society. We discuss the invention of writing as a language technology and how that gave rise to a series of cultural revolutions. We tackle the nature of society and what it means to be a social group, a social world. We will then move on to discuss language technologies such as the telegraph and discuss their impact on history. Finally, we will investigate the internet's relationship to language and its impact on society on a global scale.
 
 #### Time and place
-* Tuesday and Thursday 2:00PM - 3:20PM
+* Tuesday and Thursday 12:30PM - 1:50PM
 * Gregory Hall 219
 
 #### Instructor
-* [Daniel Stelzer](mailto:stelzer3@illinois.edu)
+* Brennan Dell (dell3@illinois.edu)
+* Sofya Styrina (styrina2@illinois.edu)
 
 ## Course Objectives
 
@@ -89,7 +90,7 @@ Announcements and updates will mainly be posted on [Piazza](https://piazza.com/i
 
 Quizzes, reading logs, and exams will be graded on PrairieLearn. Homework and project submissions will be submitted through Moodle.
 
-Synchronous office hours are available on Zoom, Monday and Wednesday 12:00pm - 12:50pm, or by appointment. The link is on Moodle for security reasons.
+There will not be regularly scheduled office hours for this class, however if you would like to meet with an instructor outside of class, you are welcome to make an appointment with one of the instructors at a time which is convenient for you.
 
 #### Grading
 
