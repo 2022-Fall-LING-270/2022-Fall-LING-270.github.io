@@ -40,7 +40,6 @@ Interested students are encouraged to enrich the content from the required readi
 
 * **The Story of Writing** by Andrew Robinson. Thames & Hudson
 * **How Writing Came About** by Denise Schmandt-Besserat. University of Texas Press; Abridged edition
-* **The Writing on the Wall: How Asian Orthography Curbs Creativity** by William Hannas. 2003. Philadelphia: University of Pennsylvania Press.
 * **HAL's Legacy: 2001's Computer as Dream and Reality** by David Stork. 1996. MIT Press.
 * **Language and the Internet** by David Crystal. 2001 Cambridge University Press.
 
@@ -86,7 +85,7 @@ Do not hesitate to ask the instructor(s) if you are ever in doubt about what con
 
 #### Communications
 
-Announcements and updates will mainly be posted on [Piazza](https://piazza.com/illinois/spring2022/ling270). Students are encouraged to use this platform to ask questions and discuss the material outside of class; it's a good way to post questions either privately to the instructors, or publicly to your classmates, and you can choose to ask and answer anonymously.
+Announcements and updates will mainly be posted on [Piazza](https://piazza.com/illinois/fall2022/ling270). Students are encouraged to use this platform to ask questions and discuss the material outside of class; it's a good way to post questions either privately to the instructors, or publicly to your classmates, and you can choose to ask and answer anonymously.
 
 Quizzes, reading logs, and exams will be graded on PrairieLearn. Homework and project submissions will be submitted through Moodle.
 
@@ -136,7 +135,7 @@ Students are expected to regularly review the schedule of assigned readings. The
 
 Students are expected to and required to complete all assigned readings prior to the class for which they are assigned.
 
-Students are expected to read and participate in Q&As and class discussions on [Piazza](https://piazza.com/illinois/spring2022/ling270).
+Students are expected to read and participate in Q&As and class discussions on [Piazza](https://piazza.com/illinois/fall2022/ling270).
 
 #### Learning Goals & Outcomes
 
@@ -149,7 +148,7 @@ Students who do so are expected to attain the learning goals and outcomes.
 To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES, you may visit 1207 S. Oak St., Champaign, call +1-217-333-4603, e-mail [disability@illinois.edu](mailto:disability@illinois.edu) or go to the [DRES website](https://www.disability.illinois.edu).
 
 If specific accommodations will be requested for this course, the student is asked to inform the course instructor as soon as possible, ideally within the first week of class or as soon as a DRES letter has been prepared, by following these steps:
-* Post a private message to the instructor on [Piazza](https://piazza.com/illinois/spring2022/ling270) (or via email)
+* Post a private message to the instructor on [Piazza](https://piazza.com/illinois/fall2022/ling270) (or via email)
 * In the body of the post, the student should attach a PDF of their DRES letter
 * In the body of the post, the student should list which specific accommodations mentioned in the DRES letter are being requested for this class
 
