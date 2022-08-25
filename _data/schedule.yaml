@@ -82,9 +82,6 @@
        unit: "pages"
     -
      title: "Reading log"
-    -
-     title: "Quiz 1a"
-     url: "https://www.prairielearn.org/pl/course_instance/129510/assessment/2321794"
 -
   week: "2"
   date: "2022-09-02 23:59 CDT"
@@ -104,6 +101,9 @@
        unit: "pages"
     -
      title: "Reading log"
+    -
+     title: "Quiz 1a"
+     url: "https://www.prairielearn.org/pl/course_instance/129510/assessment/2321794"
     -
      title: "Quiz 1b"
      url: "https://www.prairielearn.org/pl/course_instance/129510/assessment/2321795"
