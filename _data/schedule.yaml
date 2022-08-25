@@ -57,10 +57,10 @@
      title: "Reading log"
     -
      title: "Quiz 0a"
-     url: "https://www.prairielearn.org/pl/course_instance/129510/instructor/assessment/2321792"
+     url: "https://www.prairielearn.org/pl/course_instance/129510/assessment/2321792"
     -
      title: "Quiz 0b"
-     url: "https://www.prairielearn.org/pl/course_instance/129510/instructor/assessment/2321793"
+     url: "https://www.prairielearn.org/pl/course_instance/129510/assessment/2321793"
 -
   module: "1"
   week: "1"
@@ -84,7 +84,7 @@
      title: "Reading log"
     -
      title: "Quiz 1a"
-     url: "https://www.prairielearn.org/pl/course_instance/129510/instructor/assessment/2321794"
+     url: "https://www.prairielearn.org/pl/course_instance/129510/assessment/2321794"
 -
   week: "2"
   date: "2022-09-02 23:59 CDT"
@@ -106,7 +106,7 @@
      title: "Reading log"
     -
      title: "Quiz 1b"
-     url: "https://www.prairielearn.org/pl/course_instance/129510/instructor/assessment/2321795"
+     url: "https://www.prairielearn.org/pl/course_instance/129510/assessment/2321795"
 -
   module: "2"
   week: "3"
