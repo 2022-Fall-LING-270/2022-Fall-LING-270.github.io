@@ -95,11 +95,18 @@ There will not be regularly scheduled office hours for this class, however if yo
 
 Students will be assessed through a combination of practical exercises, homework assignments, projects, quizzes and exams.
 
-* **Quizzes**: 25%
-* **Homework**: 30%
+* ~~**Quizzes**: 25%~~
+* ~~**Homework**: 30%~~
+* ~~**Reading Logs**: 5%~~
+* ~~**Mid-term Exam**: 15%~~
+* ~~**Final Project**: 25%~~
+
+_**Syllabus updated as of Oct 10th to remove the midterm**_
+
+* **Quizzes**: 30%
+* **Homework**: 35%
 * **Reading Logs**: 5%
-* **Mid-term Exam**: 15%
-* **Final Project**: 25%
+* **Final Project**: 30%
 
 Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
 
