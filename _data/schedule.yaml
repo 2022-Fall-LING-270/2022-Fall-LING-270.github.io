@@ -363,9 +363,7 @@
      title: "Quiz 7"
 -
   date: "2022-11-08 23:59 CDT"
-  reading:
-    -
-     title: "Homework 3 In-class work"
+  title: <i>Election Day</i>
 -
   date: "2022-11-10 23:59 CDT"
   reading:
@@ -391,16 +389,16 @@
        value: 28
        unit: "pages"
 -
-  date: "2022-11-11 23:59 CST"
-  reading:
-    -
-     title: "Homework 3"
-#     url: "https://TODO LINK HERE"
--
   date: "2022-11-15 23:59 CDT"
   reading:
     -
      title: "Project Part 2 In-class work"
+-
+  date: "2022-11-16 23:59 CST"
+  reading:
+    -
+     title: "Homework 3"
+#     url: "https://TODO LINK HERE"
 -
   date: "2022-11-17 23:59 CDT"
   reading:
